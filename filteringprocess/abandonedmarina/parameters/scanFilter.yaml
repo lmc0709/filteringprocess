@@ -1,0 +1,23 @@
+{
+# Distance where we accept the sonar data.
+distLow         : 2.0,
+distHigh        : 50.0,
+# Specifies how many sonar scans we ignore in the beginning.
+delay           : 20,
+# Used to find peaks in the sonar scan.
+intensityHigh   : 90,
+# Used when looking at the surrounding points of each peak.
+intensityLow    : 50,
+# Range of acceptable varianve in intensity around peak.
+varLow          : 10,
+varHigh         : 40,
+# Minimum acceptable distance between peaks.
+peakDistance    : 1.0,
+pillarRadius    : 0.0,
+
+
+# Topics
+inputSonarScan  : "/abandonedMarina/SonarScan",
+outputSonarScan : "scanFilter",
+outputBuff      : "buff",
+}

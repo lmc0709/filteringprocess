@@ -1,0 +1,2 @@
+set(abandonedmarina_MESSAGE_FILES "/home/clarisse/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/msg/amDVL.msg;/home/clarisse/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/msg/amMTi.msg")
+set(abandonedmarina_SERVICE_FILES "")

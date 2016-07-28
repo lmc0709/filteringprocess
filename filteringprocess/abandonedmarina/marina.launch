@@ -1,0 +1,29 @@
+<launch>
+        <param name="use_sim_time" type="bool" value="true"/>
+        <node pkg="rviz" type="rviz" name="rvizab" args="-d $(find abandonedmarina)marina-tmp.rviz"/>
+
+        <node name="scanFilterAB" pkg="abandonedmarina" type="scanFilterAB" clear_params="true" required="true" output="screen">
+            <rosparam file="$(find abandonedmarina)/parameters/scanFilter.yaml" command="load"/>
+        </node>
+
+        <node name="mapBuilderAB" pkg="abandonedmarina" type="mapBuilderAB" clear_params="true" required="true" output="screen">
+            <rosparam file="$(find abandonedmarina)/parameters/mapBuilder.yaml" command="load"/>
+        </node> -->
+
+        <node name="moveROV" pkg="abandonedmarina" type="moveROV.py"/> -->
+        <node name="moveROVekf" pkg="abandonedmarina" type="moveROVekf.py" output="screen"/>
+
+        <node pkg="tf" type="static_transform_publisher" name="dvlTrans" args="0 0 0 1.05 0 3.14 body dvl 100" />
+        <node pkg="tf" type="static_transform_publisher" name="sonarTrans" args="0.33 0 0.26 3.14 0 0 body sonar 100" />
+        <node pkg="tf" type="static_transform_publisher" name="MTiTrans" args="0.0 0 0.04 1.57 0 0 body mti 100" />
+
+        <!-- Creates a command line argument called file -->
+        <arg name="file"/>
+        <arg name="rate" default="1"/>
+
+        <!-- Run the rosbag play as a node with the file argument -->
+        <node name="rosbag" pkg="rosbag" type="play" args="--clock -r $(arg rate) -s 210 $(find abandonedmarina)/abandoned_marina_dataset/$(arg file)"/>
+
+        <!-- <node name="rostopic" pkg="rostopic" type="rostopic" args="pub -r 10 /tfupdate std_msgs/Bool True"/> -->
+
+</launch>

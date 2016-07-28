@@ -1,0 +1,1775 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colo",
+				"color=tableau20"
+			],
+			[
+				"meanP",
+				"meanPillars"
+			],
+			[
+				"table",
+				"tableau20"
+			],
+			[
+				"par",
+				"tab:params"
+			],
+			[
+				"mu",
+				"multicolumn"
+			],
+			[
+				"set",
+				"set_trainer"
+			],
+			[
+				"rbf",
+				"rbf_trainer"
+			],
+			[
+				"ssu",
+				"subs	Sub Sub Section"
+			],
+			[
+				"subs",
+				"subsubsection"
+			],
+			[
+				"eq",
+				"eq:rbf"
+			],
+			[
+				"sec",
+				"sec:support_vector_machines"
+			],
+			[
+				"s",
+				"subs	Sub Sub Section"
+			],
+			[
+				"Sec",
+				"section"
+			],
+			[
+				"samples",
+				"samples_train"
+			],
+			[
+				"sho",
+				"showPath"
+			],
+			[
+				"fig",
+				"fig:pillarmap0"
+			],
+			[
+				"pi",
+				"sub:pillar_detection"
+			],
+			[
+				"pillar",
+				"pillarmaps"
+			],
+			[
+				"num",
+				"numberPillars"
+			],
+			[
+				"pilla",
+				"pillarmaps"
+			],
+			[
+				"noI",
+				"fig:noICP"
+			],
+			[
+				"da",
+				"fig:sub1-datasets"
+			],
+			[
+				"gra",
+				"graphic	(mapping.tex)"
+			],
+			[
+				"use",
+				"usepackage"
+			],
+			[
+				"math",
+				"mathbf"
+			],
+			[
+				"om",
+				"omega_O"
+			],
+			[
+				"omeag",
+				"omega_P"
+			],
+			[
+				"I",
+				"Initialization"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"feature",
+				"featureExtraction	(sonar.tex)"
+			],
+			[
+				"empty",
+				"emptyset	(main.tex)"
+			],
+			[
+				"euc",
+				"euclideanClustering	(sonar.tex)"
+			],
+			[
+				"incl",
+				"includes	(scanFilter.cpp)"
+			],
+			[
+				"tmp",
+				"tmppos"
+			],
+			[
+				"pill",
+				"pillarpos"
+			],
+			[
+				"dist",
+				"dist1"
+			],
+			[
+				"bea",
+				"beamSegmentation"
+			],
+			[
+				"beam",
+				"beamSegmentation	(beamSegmentation.py)"
+			],
+			[
+				"add",
+				"addition"
+			],
+			[
+				"zorder",
+				"zorder=100"
+			],
+			[
+				"thre",
+				"threshold_y"
+			],
+			[
+				"int",
+				"intensity"
+			],
+			[
+				"sect",
+				"section	(statistics.tex)"
+			],
+			[
+				"df",
+				"df_1_3"
+			],
+			[
+				"sam",
+				"sample_type	(trainSVM.cpp)"
+			],
+			[
+				"inten",
+				"intensities"
+			],
+			[
+				"inte",
+				"intensities"
+			],
+			[
+				"pub",
+				"pubBuff_	(scanBuffer.cpp)"
+			],
+			[
+				"pcl",
+				"pcl::toROSMsg	(scanBuffer.cpp)"
+			],
+			[
+				"cloud",
+				"cloud_pu"
+			],
+			[
+				"norm",
+				"normalizer"
+			],
+			[
+				"poly",
+				"poly_kernel"
+			],
+			[
+				"accur",
+				"accuracyIdx"
+			],
+			[
+				"acc",
+				"accuracyIdx"
+			],
+			[
+				"rb",
+				"rbf_trainer"
+			],
+			[
+				"accu",
+				"accuracyHigh"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"sample",
+				"samples_short"
+			],
+			[
+				"sampl",
+				"samples_short"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"Point",
+				"PointCloudT"
+			],
+			[
+				"Poi",
+				"PointCloudT"
+			],
+			[
+				"sens",
+				"sensor_msgs	(buff.msg)"
+			],
+			[
+				"mapclasses",
+				"mapclasses::buff	(scanBuffer.cpp)"
+			],
+			[
+				"tmpdis",
+				"tmpdists"
+			],
+			[
+				"message",
+				"message_generation"
+			],
+			[
+				"std",
+				"std::vector"
+			],
+			[
+				"std_",
+				"std_msgs::String	(mapBuilder.cpp)"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"crea",
+				"createSampleType"
+			],
+			[
+				"samp",
+				"sample_type"
+			],
+			[
+				"linear",
+				"linear_trainer"
+			],
+			[
+				"clas",
+				"classifyCloud"
+			],
+			[
+				"label",
+				"labelData"
+			],
+			[
+				"frame",
+				"frame_id=\"buffer"
+			],
+			[
+				"hmmmm",
+				"hmmmmm"
+			],
+			[
+				"count",
+				"countStart"
+			],
+			[
+				"cou",
+				"countLast"
+			],
+			[
+				"la",
+				"countLast"
+			],
+			[
+				"buff",
+				"bufftmp"
+			],
+			[
+				"utils",
+				"utils::Distance"
+			],
+			[
+				"Tra",
+				"TransformStamped"
+			],
+			[
+				"yaw",
+				"yawbuff"
+			],
+			[
+				"Pose",
+				"Pose2D"
+			],
+			[
+				"geo",
+				"geometry_msgs"
+			],
+			[
+				"V",
+				"Vector3f"
+			],
+			[
+				"Sonar",
+				"sonar_callback"
+			],
+			[
+				"sonar",
+				"sonar_callback"
+			],
+			[
+				"get",
+				"getFinalTransformation"
+			],
+			[
+				"ini",
+				"initialize	(scanBuffer.h)"
+			],
+			[
+				"type",
+				"typedef"
+			],
+			[
+				"con",
+				"concatenateFields"
+			],
+			[
+				"outputM",
+				"outputMapWalls	(map.cpp)"
+			],
+			[
+				"outputMap",
+				"outputMapWalls"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"map",
+				"mapWalls"
+			],
+			[
+				"find",
+				"findPillars	(scanBuffer.h)"
+			],
+			[
+				"Poin",
+				"PointCloudT::Ptr	(scanFilter.cpp)"
+			],
+			[
+				"new",
+				"new_indices"
+			],
+			[
+				"vec",
+				"vector	(scanFilter.cpp)"
+			],
+			[
+				"first",
+				"firstcount"
+			],
+			[
+				"mean",
+				"meanVar"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"cluster",
+				"cluster_indices"
+			],
+			[
+				"cluste",
+				"cluster_indices"
+			],
+			[
+				"outP",
+				"outputLines	(scanBuffer.h)"
+			],
+			[
+				"buffer",
+				"bufferSize	(scanBuffer.h)"
+			],
+			[
+				"initi",
+				"initalize	(scanBuffer.cpp)"
+			],
+			[
+				"initia",
+				"initalize"
+			],
+			[
+				"out",
+				"outputLines"
+			],
+			[
+				"maxI",
+				"maxIntensity	(scanBuffer.h)"
+			],
+			[
+				"ec",
+				"ecTolerance	(scanBuffer.h)"
+			],
+			[
+				"scanBu",
+				"scanBufferParams"
+			],
+			[
+				"input",
+				"inputSonarScan"
+			],
+			[
+				"scanFilter",
+				"scanFilterAB	(scanFilter.cpp)"
+			],
+			[
+				"intens",
+				"intensityLow"
+			],
+			[
+				"peak",
+				"peakDistance"
+			],
+			[
+				"aligne",
+				"aligned_tmp"
+			],
+			[
+				"line",
+				"line_list"
+			],
+			[
+				"Pilla",
+				"Pillars00"
+			],
+			[
+				"pgfplots",
+				"pgfplotstable"
+			],
+			[
+				"My",
+				"MY_PATH"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"featur",
+				"features"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"rms",
+				"rmsCircleFromRad"
+			],
+			[
+				"axis",
+				"axis=1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "progressReport/main.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progressReport/graphic/pillarmaps.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mapping/py/pillarPlot.py",
+			"settings":
+			{
+				"buffer_size": 7314,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mapping/include/parameters/scanFilter.yaml",
+			"settings":
+			{
+				"buffer_size": 632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progressReport/py/beamSegmentation.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progressReport/ref.bib",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progressReport/positionEstimation/positionEstimation.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progressReport/conclusion/conclusion.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "progressReport/results/results.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "results.tex"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"open re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/ref.bib",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/svmprec.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/round.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/pillar-test-path.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/py/pillarPlot.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/py/moveVideoray.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/svm/svm.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/labelData/src/trainSVM.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/noICP.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/pillarmaps2.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/src/map.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/src/scanFilter.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/src/scanBuffer.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/pillar-test.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/pillarmaps.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/datasets.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/mapping/mapping.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/conclusion/conclusion.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/introduction/introduction.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/positionEstimation/positionEstimation.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/icp.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/parameters/scanFilter.yaml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/rov.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/py/icp.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/py/pillarExtraction.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/algorithm/euclideanClustering.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/sonar/sonar.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/featureExtraction.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/beamSegmentation.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/py/beamSegmentation.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/marina.launch",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/graphic/pillarExtraction.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/mapping.launch",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/CoordinateSystem/coordinateSystem.tex",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/src/utils.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/style/MyLatexStyle.sty",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/progressReport/main.synctex.gz",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/CMakeLists.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/package.xml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/src/mapBuilder.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/scanBuffer/scanBuffer.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/labelData/src/label.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/parameters/scanFilter.yaml",
+		"/home/unnar/Downloads/dlib-18.18/dlib/CMakeLists.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/CMakeLists.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/src/mapBuilder.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/scanBuffer/scanBuffer.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/CMakeLists.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/parameters/mapBuilder.yaml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/scanFilter/scanFilter.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/utils/utils.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/msg/buff.msg",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/labelData/CMakeLists.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/labelData/src/pillar.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/parameters/mapBuilder.yaml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/labelData/src/abandoned.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/labelData/package.xml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/package.xml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/package.xml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/utils/utils.hpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/map/map.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/py/ekf.py",
+		"/home/unnar/Desktop/test.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/py/moveROVekf.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/map/map.hpp",
+		"/home/unnar/.config/sublime-text-3/Packages/C++ Starting Kit/030-for-int-loop-(fori).sublime-snippet",
+		"/home/unnar/.config/sublime-text-3/Packages/User/for.sublime-snippet",
+		"/home/unnar/.config/sublime-text-3/Packages/C++/030-for-int-loop-(fori).sublime-snippet",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/src/scanFilter.cpp",
+		"/home/unnar/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/unnar/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/src/scanFilter.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/py/moveROV.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/.gitignore",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/abandonedmarina/.gitignore",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/scanBuffer/scanBuffer.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/map/map.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapClasses/include/mapClasses/map.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/py/kalman_filter.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/map/map.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/scanBuffer/scanBuffer.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/simLaunch.launch",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/py/kf.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/Pillars05AfterFix.txt",
+		"/home/unnar/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/unnar/bin/catmake.sh",
+		"/home/unnar/GitIgnoreScript/addGit.sh",
+		"/home/unnar/texmf/tex/latex/MyLatexStyle/MyLatexStyle.sty",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/Pillars00.csv",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/tex/statistics.tex",
+		"/home/unnar/GitIgnoreScript/addGitIgnore.sh",
+		"/home/unnar/Downloads/.gitignore",
+		"/home/unnar/GitIgnoreScript/.gitignore",
+		"/home/unnar/.config/tilda/style.css",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/savedData/Pillars.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/example.txt",
+		"/home/unnar/Desktop/untitled.py",
+		"/home/unnar/Desktop/test.obj",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/kalmanFilter/kalmanFilter.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/kalmanFilter/kalmanFilter.h",
+		"/home/unnar/Desktop/emergencykey.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/utils/utils.h",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/utils/utils.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/src/moveVideoray.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/Py/kalman_filter.py",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/src/beamClustering.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/videoray.urdf",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/videoray_robot.dae",
+		"/home/unnar/Desktop/stlconvert.rb",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/test.stl",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/videoray_robot-ascii.stl",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/videoray_robot-ascii-binary.stl",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/test.urdf",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/test.ast",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/test.txt",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/mapping/include/parameters/beamClustering.yaml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/videoray_robot.stl",
+		"/home/unnar/.config/sublime-text-3/Packages/User/todo.sublime-snippet",
+		"/home/unnar/Desktop/tmp.txt",
+		"/home/unnar/.ros/log/31e076b2-56cd-11e5-8e6a-e839df31b56f/beamClustering-8-stdout.log",
+		"/home/unnar/.ros/log/31e076b2-56cd-11e5-8e6a-e839df31b56f/beamClustering-8.log",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/sim.rviz",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/src/beamClustering.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/include/parameters/beamClustering.yaml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/src/scanFilter.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/include/parameters/scanFilter.yaml",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/src/mapBuilder.cpp",
+		"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/include/parameters/mapBuilder.yaml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess",
+			"/home/unnar/catkin_ws/src/filteringprocess/filteringprocess/move_videoray/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mean",
+			"show",
+			"Radius",
+			"}\n",
+			"%",
+			"{",
+			"Poly",
+			"poly",
+			"polyno",
+			"data:",
+			"data: ",
+			"data:",
+			"cout",
+			"pos_move.path",
+			"can no",
+			"ylabel",
+			"xlabel('x(m)')",
+			"lege",
+			"xl",
+			"[7]",
+			"plt.plot(rpos[0],rpos[1])",
+			"[8",
+			"8",
+			"&",
+			"~",
+			"\\,",
+			"usepackage",
+			"tableau20[10]",
+			"pos1",
+			"angle+i*anglediff",
+			"odom",
+			"possible",
+			"funct_type",
+			"hoho",
+			"labels",
+			"cout",
+			"i",
+			"from",
+			"to",
+			"dli",
+			"dlib",
+			"pubBuffUpdate_",
+			"doSt",
+			"doS",
+			"std::cout",
+			"target_link_libraries",
+			"bu.buffer",
+			"bu.buff",
+			"tmp.size()",
+			"remove",
+			"--<",
+			"-->",
+			"-- >",
+			"-->",
+			"cloud_pu",
+			"publish",
+			"remove",
+			"ransa",
+			"publishWallTransform",
+			"pubMapW",
+			"publish",
+			"publishSona",
+			"PointCloudT::Ptr",
+			"par",
+			"10",
+			"TransformationEstimationSVDScale",
+			"pcl::PointXYZ",
+			"cout",
+			"pvec",
+			"out",
+			"haha",
+			"calcmeanvar",
+			"before",
+			"before:",
+			"intensity: ",
+			"intens",
+			"kdtr",
+			"pub",
+			"\"; ",
+			"cout",
+			"void setPublisher(ros::Publisher *pubLines){\n	// 	pubLines_ = pubLines;\n	// }",
+			"br",
+			"br.",
+			"br,",
+			"br",
+			"listener",
+			"listenter",
+			"ecMinClusterSize_",
+			"ecTolerance_",
+			"maxI",
+			"scanS",
+			"bufferS",
+			"nh.",
+			"inputSonarScan",
+			"vmaxIdx",
+			"){\n",
+			"createBagFile",
+			"beam",
+			"returnCurre",
+			"map.",
+			"sb",
+			"beam",
+			"sb",
+			"inputSonarScan",
+			"pillarRadius",
+			"peakDistance",
+			"varHigh",
+			"intensityHigh",
+			"clouds",
+			"clouds_count",
+			"ptra",
+			"peakD",
+			"intensityL",
+			"intensityH",
+			"distL",
+			"delay",
+			"utils",
+			"du",
+			"durate",
+			"path",
+			"liste",
+			"sonar",
+			"intializeMap",
+			"initi",
+			"intializeMap",
+			"initi",
+			"cout",
+			"indices"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "progressReport/main.tex",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "progressReport/graphic/pillarmaps.tex",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mapping/py/pillarPlot.py",
+					"settings":
+					{
+						"buffer_size": 7314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5291,
+								5291
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mapping/include/parameters/scanFilter.yaml",
+					"settings":
+					{
+						"buffer_size": 632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "progressReport/py/beamSegmentation.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2096.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "progressReport/ref.bib",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "progressReport/positionEstimation/positionEstimation.tex",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "progressReport/conclusion/conclusion.tex",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "progressReport/results/results.tex",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "results.tex",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3686.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true
+}
