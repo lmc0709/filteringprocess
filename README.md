@@ -22,11 +22,11 @@ for creating complex software in C++ to solve real world problems.  See
 Type the following to compile the librairy after the Download of dlib 18.18:
   first go to the dlib-18.18 folder.
 
-	>cd dlib 
-	>mkdir build 
-	>cd build 
-	>cmake ..
-	>sudo make install
+	cd dlib 
+	mkdir build 
+	cd build 
+	cmake ..
+	sudo make install
 
 Please refer to README.txt of dlib for more information.
 
@@ -47,21 +47,21 @@ You can install them manualy or follow the full installation [here](http://sayan
 # How to run
 To launch the dataset from an abondoned marina near St. Pere Percador, Spain :
 
-	>// go to abondonedmarina package 
-	>mkdir bagfiles
-	>cd bagfiles 
-	>// set your data files
-	>roslaunch abondonedmarina marina.launch file:=myDataSetName.bag
+	// go to abondonedmarina package 
+	mkdir bagfiles
+	cd bagfiles 
+	// set your data files
+	roslaunch abondonedmarina marina.launch file:=myDataSetName.bag
 
 In this package, only the ICP mapping is perform.
 
 To launch the dataset from the Stevens pier on the Hudson river :
 
-	>// go to mapping package 
-	>mkdir bagfiles 
-	>cd bagfiles
-	>// set your data files
-	>roslaunch mapping mapping.launch file:=myDataSetName.bag
+	// go to mapping package 
+	mkdir bagfiles 
+	cd bagfiles
+	// set your data files
+	roslaunch mapping mapping.launch file:=myDataSetName.bag
 
 In this package you can find the scan matching slam, with feedback on rviz, and a graph-based slam on background. The resuts of the graph-based slam can be find on the Octave folder.
 
