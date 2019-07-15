@@ -45,13 +45,13 @@ To use it you need some requirements to build :
 You can install them manualy or follow the full installation [here](http://sayantanfoto.blogspot.se/2015/06/installing-g2o-on-ubuntu.html).
 
 # How to run
-To launch the dataset from an abondoned marina near St. Pere Percador, Spain :
+To launch the dataset from an abandoned marina near St. Pere Percador, Spain :
 
-	// go to abondonedmarina package 
+	// go to abandonedmarina package 
 	mkdir bagfiles
 	cd bagfiles 
 	// set your data files
-	roslaunch abondonedmarina marina.launch file:=myDataSetName.bag
+	roslaunch abandonedmarina marina.launch file:=myDataSetName.bag
 
 In this package, only the ICP mapping is perform.
 
